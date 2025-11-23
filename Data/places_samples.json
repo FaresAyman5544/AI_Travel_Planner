@@ -1,0 +1,344 @@
+[
+  {
+    "city": "Cairo",
+    "name": "Egyptian Museum",
+    "type": "attraction",
+    "description": "Ancient artifacts including Tutankhamun’s treasures.",
+    "avg_cost_egp": 300,
+    "duration_hours": 2.5,
+    "best_time": "morning",
+    "tags": ["history", "museum", "culture"]
+  },
+  {
+    "city": "Cairo",
+    "name": "Khan el-Khalili",
+    "type": "market",
+    "description": "Historic bazaar for souvenirs, spices, and cafes.",
+    "avg_cost_egp": 150,
+    "duration_hours": 2.0,
+    "best_time": "afternoon",
+    "tags": ["shopping", "culture", "walking"]
+  },
+  {
+    "city": "Cairo",
+    "name": "Pyramids of Giza",
+    "type": "attraction",
+    "description": "Iconic pyramids and Sphinx; options for guided tours and camel rides.",
+    "avg_cost_egp": 500,
+    "duration_hours": 3.0,
+    "best_time": "morning",
+    "tags": ["history", "landmark"]
+  },
+  {
+    "city": "Alexandria",
+    "name": "Bibliotheca Alexandrina",
+    "type": "attraction",
+    "description": "Modern library and cultural center with exhibits.",
+    "avg_cost_egp": 200,
+    "duration_hours": 2.0,
+    "best_time": "morning",
+    "tags": ["museum", "culture"]
+  }
+  ,
+  {
+    "city": "Cairo",
+    "name": "Al-Azhar Park",
+    "type": "park",
+    "description": "Green park with panoramic views of Cairo and historical architecture.",
+    "avg_cost_egp": 200,
+    "duration_hours": 2.0,
+    "best_time": "sunset",
+    "tags": ["nature", "views", "relaxation"]
+  },
+  {
+    "city": "Cairo",
+    "name": "Cairo Tower",
+    "type": "landmark",
+    "description": "Observation tower offering wide views of the city.",
+    "avg_cost_egp": 250,
+    "duration_hours": 1.0,
+    "best_time": "evening",
+    "tags": ["views", "landmark"]
+  },
+  {
+    "city": "Cairo",
+    "name": "National Museum of Egyptian Civilization",
+    "type": "museum",
+    "description": "Museum showcasing Egyptian history including the Royal Mummies Hall.",
+    "avg_cost_egp": 300,
+    "duration_hours": 2.5,
+    "best_time": "morning",
+    "tags": ["history", "museum"]
+  },
+  {
+    "city": "Cairo",
+    "name": "The Hanging Church",
+    "type": "attraction",
+    "description": "Historic Coptic church built above an ancient gate tower.",
+    "avg_cost_egp": 50,
+    "duration_hours": 1.0,
+    "best_time": "morning",
+    "tags": ["religion", "history", "architecture"]
+  },
+  {
+    "city": "Cairo",
+    "name": "Pharaonic Village",
+    "type": "attraction",
+    "description": "Interactive experience showing life in ancient Egypt.",
+    "avg_cost_egp": 350,
+    "duration_hours": 3.0,
+    "best_time": "afternoon",
+    "tags": ["family", "history", "culture"]
+  },
+  {
+    "city": "Alexandria",
+    "name": "Montaza Palace Gardens",
+    "type": "park",
+    "description": "Beautiful gardens by the sea surrounding the royal palace.",
+    "avg_cost_egp": 75,
+    "duration_hours": 2.0,
+    "best_time": "morning",
+    "tags": ["nature", "walking", "views"]
+  },
+  {
+    "city": "Alexandria",
+    "name": "Citadel of Qaitbay",
+    "type": "attraction",
+    "description": "Historic fortress built on the site of the ancient Lighthouse of Alexandria.",
+    "avg_cost_egp": 100,
+    "duration_hours": 1.5,
+    "best_time": "afternoon",
+    "tags": ["history", "sea", "landmark"]
+  },
+  {
+    "city": "Alexandria",
+    "name": "Alexandria National Museum",
+    "type": "museum",
+    "description": "Museum showcasing Alexandria's diverse cultural history.",
+    "avg_cost_egp": 100,
+    "duration_hours": 1.5,
+    "best_time": "morning",
+    "tags": ["museum", "culture"]
+  },
+  {
+    "city": "Alexandria",
+    "name": "Stanley Bridge",
+    "type": "landmark",
+    "description": "Beautiful modern bridge with seaside views and walking area.",
+    "avg_cost_egp": 0,
+    "duration_hours": 0.5,
+    "best_time": "sunset",
+    "tags": ["sea", "walking", "views"]
+  },
+  {
+    "city": "Alexandria",
+    "name": "Royal Jewelry Museum",
+    "type": "museum",
+    "description": "Displays exquisite royal jewelry from Egypt’s monarchy era.",
+    "avg_cost_egp": 200,
+    "duration_hours": 1.5,
+    "best_time": "afternoon",
+    "tags": ["museum", "luxury", "history"]
+  },
+  {
+    "city": "Luxor",
+    "name": "Karnak Temple",
+    "type": "attraction",
+    "description": "Massive temple complex dedicated to ancient Egyptian gods.",
+    "avg_cost_egp": 450,
+    "duration_hours": 3.0,
+    "best_time": "morning",
+    "tags": ["history", "temple", "landmark"]
+  },
+  {
+    "city": "Luxor",
+    "name": "Valley of the Kings",
+    "type": "attraction",
+    "description": "Ancient burial site of Egyptian pharaohs.",
+    "avg_cost_egp": 500,
+    "duration_hours": 3.0,
+    "best_time": "morning",
+    "tags": ["history", "tombs", "archaeology"]
+  },
+  {
+    "city": "Luxor",
+    "name": "Luxor Temple",
+    "type": "attraction",
+    "description": "Temple complex beautifully lit at night.",
+    "avg_cost_egp": 300,
+    "duration_hours": 2.0,
+    "best_time": "evening",
+    "tags": ["history", "temple"]
+  },
+  {
+    "city": "Luxor",
+    "name": "Colossi of Memnon",
+    "type": "landmark",
+    "description": "Two massive stone statues of Pharaoh Amenhotep III.",
+    "avg_cost_egp": 0,
+    "duration_hours": 0.5,
+    "best_time": "morning",
+    "tags": ["history", "statue", "landmark"]
+  },
+  {
+    "city": "Luxor",
+    "name": "Luxor Museum",
+    "type": "museum",
+    "description": "Showcases important artifacts from ancient Thebes.",
+    "avg_cost_egp": 200,
+    "duration_hours": 1.5,
+    "best_time": "afternoon",
+    "tags": ["museum", "history"]
+  },
+  {
+    "city": "Aswan",
+    "name": "Philae Temple",
+    "type": "attraction",
+    "description": "Temple dedicated to the goddess Isis, located on an island.",
+    "avg_cost_egp": 350,
+    "duration_hours": 2.0,
+    "best_time": "morning",
+    "tags": ["temple", "island", "history"]
+  },
+  {
+    "city": "Aswan",
+    "name": "Nubian Village",
+    "type": "experience",
+    "description": "Colorful village showcasing Nubian culture and traditions.",
+    "avg_cost_egp": 300,
+    "duration_hours": 3.0,
+    "best_time": "afternoon",
+    "tags": ["culture", "family", "walking"]
+  },
+  {
+    "city": "Aswan",
+    "name": "Unfinished Obelisk",
+    "type": "landmark",
+    "description": "Ancient quarry with the largest known obelisk that was never completed.",
+    "avg_cost_egp": 100,
+    "duration_hours": 1.0,
+    "best_time": "morning",
+    "tags": ["history", "archaeology"]
+  },
+  {
+    "city": "Aswan",
+    "name": "Aswan Botanical Garden",
+    "type": "park",
+    "description": "Island garden with exotic plants and peaceful walking paths.",
+    "avg_cost_egp": 50,
+    "duration_hours": 1.5,
+    "best_time": "afternoon",
+    "tags": ["nature", "walking"]
+  },
+  {
+    "city": "Aswan",
+    "name": "Abu Simbel Temples",
+    "type": "attraction",
+    "description": "Massive rock temples built by Ramses II.",
+    "avg_cost_egp": 500,
+    "duration_hours": 3.0,
+    "best_time": "morning",
+    "tags": ["history", "temple", "landmark"]
+  },
+  {
+    "city": "Sharm El Sheikh",
+    "name": "Ras Mohammed National Park",
+    "type": "nature",
+    "description": "Famous for diving, coral reefs, and marine life.",
+    "avg_cost_egp": 300,
+    "duration_hours": 4.0,
+    "best_time": "morning",
+    "tags": ["diving", "nature", "sea"]
+  },
+  {
+    "city": "Sharm El Sheikh",
+    "name": "Naama Bay",
+    "type": "beach",
+    "description": "Popular bay with restaurants, nightlife, and water activities.",
+    "avg_cost_egp": 0,
+    "duration_hours": 2.0,
+    "best_time": "evening",
+    "tags": ["nightlife", "walking", "sea"]
+  },
+  {
+    "city": "Sharm El Sheikh",
+    "name": "SOHO Square",
+    "type": "entertainment",
+    "description": "Shopping and entertainment district with nightlife and family activities.",
+    "avg_cost_egp": 200,
+    "duration_hours": 2.0,
+    "best_time": "evening",
+    "tags": ["shopping", "entertainment"]
+  },
+  {
+    "city": "Sharm El Sheikh",
+    "name": "Shark’s Bay",
+    "type": "beach",
+    "description": "Quiet beach area perfect for snorkeling.",
+    "avg_cost_egp": 150,
+    "duration_hours": 2.0,
+    "best_time": "morning",
+    "tags": ["snorkeling", "sea"]
+  },
+  {
+    "city": "Sharm El Sheikh",
+    "name": "Old Market (Sharm el-Maya)",
+    "type": "market",
+    "description": "Traditional market area with cafes and souvenir shops.",
+    "avg_cost_egp": 100,
+    "duration_hours": 1.5,
+    "best_time": "evening",
+    "tags": ["shopping", "culture"]
+  },
+  {
+    "city": "Hurghada",
+    "name": "Giftun Island",
+    "type": "island",
+    "description": "White-sand island famous for snorkeling and boat trips.",
+    "avg_cost_egp": 400,
+    "duration_hours": 5.0,
+    "best_time": "morning",
+    "tags": ["sea", "snorkeling", "boat"]
+  },
+  {
+    "city": "Hurghada",
+    "name": "Hurghada Marina",
+    "type": "entertainment",
+    "description": "Modern marina with restaurants, sea views, and nightlife.",
+    "avg_cost_egp": 200,
+    "duration_hours": 2.0,
+    "best_time": "evening",
+    "tags": ["sea", "nightlife"]
+  },
+  {
+    "city": "Hurghada",
+    "name": "El-Dahar Square",
+    "type": "market",
+    "description": "Traditional market area with local shops and food.",
+    "avg_cost_egp": 50,
+    "duration_hours": 1.5,
+    "best_time": "afternoon",
+    "tags": ["shopping", "culture"]
+  },
+  {
+    "city": "Hurghada",
+    "name": "Orange Bay",
+    "type": "beach",
+    "description": "Premium beach with crystal-clear waters and hammocks.",
+    "avg_cost_egp": 450,
+    "duration_hours": 4.0,
+    "best_time": "morning",
+    "tags": ["beach", "relaxation", "sea"]
+  },
+  {
+    "city": "Hurghada",
+    "name": "Sand City Museum",
+    "type": "museum",
+    "description": "Outdoor museum featuring impressive sand sculptures.",
+    "avg_cost_egp": 150,
+    "duration_hours": 2.0,
+    "best_time": "morning",
+    "tags": ["museum", "art"]
+  }
+]
+
